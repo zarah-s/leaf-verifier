@@ -7,9 +7,9 @@ git clone https://github.com/zarah-s/leaf-verifier
 
 
 ```bash
-npm install
+cd leaf-verifier && npm install
 ```
 
 ```bash
-node inde.js
+node index.js
 ```
